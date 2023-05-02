@@ -29,7 +29,7 @@ const PromptBuilder = () => {
     setIsLoadingStarted(true);
     const headers = {
       "Content-Type": "application/json",
-      Authorization: `Bearer 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`,
+      Authorization: `Bearer sk-FQEbRtNAxbvuBtBenO9sT3Bluit54y98t489uy54u8`,
     };
     const basePrompt = `
       Could you please provide me with a process flow for ${data.app_detail} with step 
